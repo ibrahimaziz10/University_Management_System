@@ -14,7 +14,7 @@ This University Management System (UMS) is a console-based C++ project that demo
 
 - Exit back to the main portal
 
-### **🎓 Student Portal: **
+### **🎓 Student Portal:**
 - Sign up and login system
 
 - View grades and attendance
