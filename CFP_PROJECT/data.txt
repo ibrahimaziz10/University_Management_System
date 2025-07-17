@@ -1,0 +1,5 @@
+[--COURSE 1 --]
+Course Name: CFP
+Course Attendence: 60
+Course Grade Awarded: D
+
